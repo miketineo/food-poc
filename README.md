@@ -1,4 +1,4 @@
-# Hexis CTO Live Coding Exercise
+# CTO Live Coding Exercise
 
 ## Validated Food Catalogue Matcher
 
