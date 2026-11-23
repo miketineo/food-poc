@@ -1,5 +1,5 @@
 rapidfuzz>=3.0
-numpy>=2.0
+numpy>=2.5.5
 pytest>=8.0
 # optional semantic name-similarity backend:
 # model2vec
